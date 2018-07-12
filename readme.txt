@@ -1,3 +1,3 @@
 the first Git docment.
 Git is  free 
-creating a new branch is quick.
+creating a new branch is quick & simple.
